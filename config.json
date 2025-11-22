@@ -4,7 +4,6 @@
   "avatarUrl": "https://github.githubassets.com/favicons/favicon.svg",
   "GMEEK_VERSION": "last",
   "allHead": "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
-  "Gmeek-markdown": "![IP签名](https://tool.lu/netcard/)\n\n欢迎来到我的博客！",
   "allBody": "<div style='text-align:center; margin-top:20px;'><img src='https://tool.lu/netcard/' alt='IP签名'></div>",
   "script": "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
 }
