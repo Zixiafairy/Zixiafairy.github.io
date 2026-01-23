@@ -38,6 +38,8 @@
 ### 13.中信银行：没有主动提醒，可以来到“我的”页面，能否登录暂不清楚<br>
 ### 14.兴业银行：弹窗提醒后可以选择“我已知晓风险”后继续使用<br>
 
+<img width="539" height="1167" alt="Image" src="https://github.com/user-attachments/assets/ff4e5bbf-22cd-4428-9709-3b28d746cb3d" /><br>
+
 ### 15.蓝海银行：无法使用，弹窗阻止登录<br>
 <img width="530" height="1148" alt="Image" src="https://github.com/user-attachments/assets/0e5fdc8e-c0e3-4b7b-bee9-ce63e09de85f" /><br>
 
