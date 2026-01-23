@@ -12,11 +12,10 @@
 <br>
 <br>
 
-### 1.工商银行：
-### 打开app没有主动弹出提醒，可以来到“我的”页面，但是无法登录，提示“确认设备环境安全后重新尝试登录”，如果提前登录再投屏就没问题
+### 1.工商银行：打开app没有主动弹出提醒，可以来到“我的”页面，但是无法登录，提示“确认设备环境安全后重新尝试登录”，如果提前登录再投屏就没问题
 <img width="518" height="107" alt="Image" src="https://github.com/user-attachments/assets/d234f3ab-8eeb-4cdf-83bb-e0e941a46f94" /><br>
 
-2.建设银行：无法使用，弹窗仅有“退出手机银行”选项
+### 2.建设银行：无法使用，弹窗仅有“退出手机银行”选项
 <img width="666" height="1440" alt="Image" src="https://github.com/user-attachments/assets/6aa1385e-5c47-4f09-b139-fbd141a11279" />
 3.农业银行：无法使用，检测到投屏后自动全屏模糊效果
 <img width="539" height="1167" alt="Image" src="https://github.com/user-attachments/assets/5efe5334-7914-4dc9-9ff6-97b048910c70" />
